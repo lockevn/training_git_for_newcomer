@@ -122,3 +122,6 @@ chỉ quan tâm tới 2 tab [Conversation] và [Files changed]
 Comment vào các chỗ cảm thấy cần góp ý.
 
 NếU author của PR (`T` tạo PR thì `T` là author) đã sửa theo suggestion của L, thì L resolve comment của L đi nếu đã hài lòng.
+
+
+Lam Thử sửa
